@@ -1,1 +1,1 @@
-# a few matlab sctipts to generate vhdl roms
+# A few Matlab scripts to generate VHDL roms
